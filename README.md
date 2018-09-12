@@ -2,6 +2,10 @@
 ## **Open Source Tool, part of the [READ! Toolkit](http://read-toolkit.com/)**
  ***by [Betterment Labs](http://www.bettermentlabs.com/)***
 
+### Project Definition
+1. Create tools that allow for Expanded Corpora generation easily
+2. "" for Phoneme Corpora
+
 ### Definitions
 *Corpora*:  a collection of written or spoken material in machine-readable form, assembled for the purpose of studying linguistic structures, frequencies, etc.
 
@@ -24,7 +28,7 @@
 - associated phonemes (preceding and seceding ... one or two in either direction?)
 - phoneme frequencies?
 
-***Concerns/Questions:***
+### Concerns/Questions:
 - Particular language concerns: 
 	- non-phonetic languages
 	- unwritten languages
@@ -34,7 +38,7 @@
 - how to handle accents
 - how to account for conjugations/declensions/etc in corpora
 
-***Relevant Materials & Resources:***
+### Relevant Materials & Resources:
 - [Mark Davies's Corpora](https://corpus.byu.edu/)
 - Graph Databases:
 	- [https://gun.eco/#step1](https://gun.eco/#step1)
@@ -42,7 +46,7 @@
 	- [https://neo4j.com/developer/graph-database/](https://neo4j.com/developer/graph-database/)
 
 
-***Proposed Approach:***
+### Proposed Approach:
 - Used New Testament Greek
 	- Reasons:
 		- [Strong’s Concordance](https://en.wikipedia.org/wiki/Strong%27s_Concordance) has data we can check our results against
@@ -50,5 +54,6 @@
 		- Team members have experience with language
 		- Non-Roman alphabet gives a start for non-Roman alphabet languages
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTU1MzgsMTc0MDU4OTg4N119
+eyJoaXN0b3J5IjpbMTIwNDEwNjE3MCwxMTQxNTUzOCwxNzQwNT
+g5ODg3XX0=
 -->
