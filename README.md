@@ -4,7 +4,6 @@
 
 ### Project Definition
 1. Create tools that allow for Expanded Corpora generation easily
-	A. 
 2. "" for Phoneme Corpora
 
 ### Definitions
@@ -55,6 +54,6 @@
 		- Team members have experience with language
 		- Non-Roman alphabet gives a start for non-Roman alphabet languages
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwNzgzMzY5LDExNDE1NTM4LDE3NDA1OD
-k4ODddfQ==
+eyJoaXN0b3J5IjpbMTIwNDEwNjE3MCwxMTQxNTUzOCwxNzQwNT
+g5ODg3XX0=
 -->
