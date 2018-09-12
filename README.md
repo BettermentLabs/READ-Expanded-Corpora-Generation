@@ -6,6 +6,7 @@
 1. Create tools that allow for Expanded Corpora generation easily
 2. "" for Phoneme Corpora
 
+
 ### Definitions
 *Corpora*:  a collection of written or spoken material in machine-readable form, assembled for the purpose of studying linguistic structures, frequencies, etc.
 
@@ -54,6 +55,6 @@
 		- Team members have experience with language
 		- Non-Roman alphabet gives a start for non-Roman alphabet languages
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDEwNjE3MCwxMTQxNTUzOCwxNzQwNT
-g5ODg3XX0=
+eyJoaXN0b3J5IjpbODk1MDYzNDM2LDEyMDQxMDYxNzAsMTE0MT
+U1MzgsMTc0MDU4OTg4N119
 -->
