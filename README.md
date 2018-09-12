@@ -1,5 +1,5 @@
 # Expanded Corpora Generation
-## **Open Source Tool, part of the [READ! Toolkit](http://read-toolkit.com/)**
+## **Open Source Tool, part of the [READ! Toolkit](http://www.bettermentlabs.com/read-toolkit)**
  ***by [Betterment Labs](http://www.bettermentlabs.com/)***
 
 ### Project Definition
@@ -55,6 +55,6 @@
 		- Team members have experience with language
 		- Non-Roman alphabet gives a start for non-Roman alphabet languages
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1MDYzNDM2LDEyMDQxMDYxNzAsMTE0MT
-U1MzgsMTc0MDU4OTg4N119
+eyJoaXN0b3J5IjpbLTc0NzUzMDYwOSw4OTUwNjM0MzYsMTIwND
+EwNjE3MCwxMTQxNTUzOCwxNzQwNTg5ODg3XX0=
 -->
