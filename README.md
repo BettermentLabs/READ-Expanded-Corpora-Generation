@@ -45,6 +45,7 @@
 	- [https://gun.eco/#step1](https://gun.eco/#step1)
 	 - [https://medium.com/@reinman/create-your-first-wormhole-in-javascript-ef88d8c66fad](https://medium.com/@reinman/create-your-first-wormhole-in-javascript-ef88d8c66fad)
 	- [https://neo4j.com/developer/graph-database/](https://neo4j.com/developer/graph-database/)
+- [Google paper on generating Corpora](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36801.pdf)
 
 
 ### Proposed Approach:
