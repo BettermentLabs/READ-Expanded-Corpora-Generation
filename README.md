@@ -16,8 +16,8 @@
  - Word broken down into phonemes (component sounds)
  - Use indices [?] (where word was used — à la Strong's Concordance Numbers)
  - Words occurring before & after word:
-	 - two words before, two words after
-	 - count all end-of-sentence punctuation as a word (i.e. period "."; exclamation point "!"; question mark "?" or othe
+	 - two words before, two words after (and frequency of occurrences)
+	 - count all end-of-sentence punctuation as a word (i.e. period "."; exclamation point "!"; question mark "?" or others, depending on language)
 
 **verbal only will be added later*
 
@@ -46,6 +46,9 @@
 	 - [https://medium.com/@reinman/create-your-first-wormhole-in-javascript-ef88d8c66fad](https://medium.com/@reinman/create-your-first-wormhole-in-javascript-ef88d8c66fad)
 	- [https://neo4j.com/developer/graph-database/](https://neo4j.com/developer/graph-database/)
 - [Google paper on generating Corpora](: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36801.pdf)
+- English Phonemes:
+	- https://www.youtube.com/watch?v=xiqUVnXExTQ
+	- 
 
 
 ### Proposed Approach:
@@ -56,7 +59,7 @@
 		- Team members have experience with language
 		- Non-Roman alphabet gives a start for non-Roman alphabet languages
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDQ3MDY5MjQsMzc5NzY1MTM5LC03ND
+eyJoaXN0b3J5IjpbLTE0MjUzNTU2MDMsMzc5NzY1MTM5LC03ND
 c1MzA2MDksODk1MDYzNDM2LDEyMDQxMDYxNzAsMTE0MTU1Mzgs
 MTc0MDU4OTg4N119
 -->
