@@ -48,6 +48,9 @@
 - [Google paper on generating Corpora](: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36801.pdf)
 - English Phonemes:
 	- https://www.youtube.com/watch?v=xiqUVnXExTQ
+	- https://www.dyslexia-reading-well.com/support-files/the-44-phonemes-of-english.pdf
+	- http://sites.fas.harvard.edu/~interns/eng101quiz/definitions.html
+	- Graphemes: http://www.speechlanguage-resources.com/support-files/soundstographemesguide2.pdf
 	- 
 
 
@@ -59,7 +62,7 @@
 		- Team members have experience with language
 		- Non-Roman alphabet gives a start for non-Roman alphabet languages
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjUzNTU2MDMsMzc5NzY1MTM5LC03ND
-c1MzA2MDksODk1MDYzNDM2LDEyMDQxMDYxNzAsMTE0MTU1Mzgs
-MTc0MDU4OTg4N119
+eyJoaXN0b3J5IjpbMTA4MTAzOTc3MCwzNzk3NjUxMzksLTc0Nz
+UzMDYwOSw4OTUwNjM0MzYsMTIwNDEwNjE3MCwxMTQxNTUzOCwx
+NzQwNTg5ODg3XX0=
 -->
