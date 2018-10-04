@@ -13,7 +13,7 @@
 ***Expanded Corpora:*** 
  - Word *(written or verbal** *)*
  - Word occurrence frequency
- - Word broken down into phonemes (component sounds)
+ - Word broken down into phonemes (component sounds) 
  - Use indices [?] (where word was used — à la Strong's Concordance Numbers)
  - Words occurring before & after word:
 	 - two words before, two words after (and frequency of occurrences)
@@ -51,18 +51,19 @@
 	- https://www.dyslexia-reading-well.com/support-files/the-44-phonemes-of-english.pdf
 	- http://sites.fas.harvard.edu/~interns/eng101quiz/definitions.html
 	- Graphemes: http://www.speechlanguage-resources.com/support-files/soundstographemesguide2.pdf
-	- 
+	
 
 
 ### Proposed Approach:
-- Used New Testament Greek
+- D
+- Use New Testament Greek
 	- Reasons:
 		- [Strong’s Concordance](https://en.wikipedia.org/wiki/Strong%27s_Concordance) has data we can check our results against
 		- Source texts are easily accessible online
 		- Team members have experience with language
 		- Non-Roman alphabet gives a start for non-Roman alphabet languages
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTAzOTc3MCwzNzk3NjUxMzksLTc0Nz
-UzMDYwOSw4OTUwNjM0MzYsMTIwNDEwNjE3MCwxMTQxNTUzOCwx
-NzQwNTg5ODg3XX0=
+eyJoaXN0b3J5IjpbNzE4NzUxNTkwLDM3OTc2NTEzOSwtNzQ3NT
+MwNjA5LDg5NTA2MzQzNiwxMjA0MTA2MTcwLDExNDE1NTM4LDE3
+NDA1ODk4ODddfQ==
 -->
