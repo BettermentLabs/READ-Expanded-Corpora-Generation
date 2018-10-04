@@ -55,7 +55,9 @@
 
 
 ### Proposed Approach:
-- D
+- Two passes at Expanded Corpora:
+	- First Pass: Letters/Words
+	- Second Pass: Phonemes/Graphemes
 - Use New Testament Greek
 	- Reasons:
 		- [Strong’s Concordance](https://en.wikipedia.org/wiki/Strong%27s_Concordance) has data we can check our results against
@@ -63,7 +65,7 @@
 		- Team members have experience with language
 		- Non-Roman alphabet gives a start for non-Roman alphabet languages
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4NzUxNTkwLDM3OTc2NTEzOSwtNzQ3NT
+eyJoaXN0b3J5IjpbMzgyNDQ5MDEyLDM3OTc2NTEzOSwtNzQ3NT
 MwNjA5LDg5NTA2MzQzNiwxMjA0MTA2MTcwLDExNDE1NTM4LDE3
 NDA1ODk4ODddfQ==
 -->
