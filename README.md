@@ -13,7 +13,7 @@
 ***Expanded Corpora:*** 
  - Word *(written or verbal** *)*
  - Word occurrence frequency
- - Word broken down into phonemes (component sounds) 
+ - Word broken down into phonemes (component sounds), *secondary priority*
  - Use indices [?] (where word was used — à la Strong's Concordance Numbers)
  - Words occurring before & after word:
 	 - two words before, two words after (and frequency of occurrences)
@@ -65,7 +65,7 @@
 		- Team members have experience with language
 		- Non-Roman alphabet gives a start for non-Roman alphabet languages
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyNDQ5MDEyLDM3OTc2NTEzOSwtNzQ3NT
-MwNjA5LDg5NTA2MzQzNiwxMjA0MTA2MTcwLDExNDE1NTM4LDE3
-NDA1ODk4ODddfQ==
+eyJoaXN0b3J5IjpbMjY2NzgwMzE4LDM4MjQ0OTAxMiwzNzk3Nj
+UxMzksLTc0NzUzMDYwOSw4OTUwNjM0MzYsMTIwNDEwNjE3MCwx
+MTQxNTUzOCwxNzQwNTg5ODg3XX0=
 -->
