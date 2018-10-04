@@ -45,7 +45,7 @@
 	- [https://gun.eco/#step1](https://gun.eco/#step1)
 	 - [https://medium.com/@reinman/create-your-first-wormhole-in-javascript-ef88d8c66fad](https://medium.com/@reinman/create-your-first-wormhole-in-javascript-ef88d8c66fad)
 	- [https://neo4j.com/developer/graph-database/](https://neo4j.com/developer/graph-database/)
-- [Google paper on generating Corpora](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36801.pdf)
+- [Google paper on generating Corpora](: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36801.pdf)
 
 
 ### Proposed Approach:
@@ -56,6 +56,7 @@
 		- Team members have experience with language
 		- Non-Roman alphabet gives a start for non-Roman alphabet languages
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzUzMDYwOSw4OTUwNjM0MzYsMTIwND
-EwNjE3MCwxMTQxNTUzOCwxNzQwNTg5ODg3XX0=
+eyJoaXN0b3J5IjpbMzc5NzY1MTM5LC03NDc1MzA2MDksODk1MD
+YzNDM2LDEyMDQxMDYxNzAsMTE0MTU1MzgsMTc0MDU4OTg4N119
+
 -->
