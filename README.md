@@ -1,5 +1,5 @@
 # Expanded Corpora Generation
-## **Open Source Tool, part of the [READ! Toolkit](http://www.bettermentlabs.com/read-toolkit)**
+## **Open Source Tool**
  ***by [Betterment Labs](http://www.bettermentlabs.com/)***
 
 ### Project Definition
@@ -17,7 +17,7 @@
  - Use indices [?] (where word was used — à la Strong's Concordance Numbers)
  - Words occurring before & after word:
 	 - two words before, two words after
-	 - count a period "." as a word
+	 - count all end-of-sentence punctuation as a word (i.e. period "."; exclamation point "!"; question mark "?" or othe
 
 **verbal only will be added later*
 
@@ -56,7 +56,7 @@
 		- Team members have experience with language
 		- Non-Roman alphabet gives a start for non-Roman alphabet languages
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5NzY1MTM5LC03NDc1MzA2MDksODk1MD
-YzNDM2LDEyMDQxMDYxNzAsMTE0MTU1MzgsMTc0MDU4OTg4N119
-
+eyJoaXN0b3J5IjpbLTEzMDQ3MDY5MjQsMzc5NzY1MTM5LC03ND
+c1MzA2MDksODk1MDYzNDM2LDEyMDQxMDYxNzAsMTE0MTU1Mzgs
+MTc0MDU4OTg4N119
 -->
