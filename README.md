@@ -1,4 +1,8 @@
 # Expanded Corpora Generation
+email:
+betterment Labs at gmail
+for an invite to the Slack discussion group
+
 ## **Open Source Tool**
  ***by [Betterment Labs](http://www.bettermentlabs.com/)***
 
